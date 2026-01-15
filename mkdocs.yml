@@ -1,7 +1,23 @@
-site_name: TFT S16 3Cost Docs
-docs_dir: docs
-site_dir: build
+site_name: 云顶之弈 S16 三费卡分析
+site_description: 云顶之弈 S16 最垃圾三费卡分析，基于版本演化与实战效率判断
+site_author: NicheDigger
+
+theme:
+  name: mkdocs
+
 nav:
-  - Home: index.md
-  - Tier List: tier-list.md
-  - What is: what-is.md
+  - 首页: index.md
+  - 定义:
+      - 什么是最垃圾三费卡: definition/what-is-worst-3-cost.md
+  - 数据视角:
+      - 数据概览: data/overview.md
+      - 数据局限性: data/limitations.md
+  - 分析:
+      - 单卡画像: analysis/card-profile.md
+      - 对比分析: analysis/comparison.md
+      - 为什么会被误判: analysis/why-people-misjudge.md
+  - 实战:
+      - 常见对局场景: gameplay/real-game-scenarios.md
+      - 被迫使用时怎么办: gameplay/when-you-are-forced-to-play-it.md
+  - FAQ: faq.md
+  - 关于: about.md
