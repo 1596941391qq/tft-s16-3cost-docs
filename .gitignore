@@ -1,1 +1,12 @@
+# MkDocs 默认构建输出目录
 site/
+$READTHEDOCS_OUTPUT/
+# 其他常见忽略项（建议一起加，防止以后坑）
+build/
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+.env
+.idea/
+.vscode/
