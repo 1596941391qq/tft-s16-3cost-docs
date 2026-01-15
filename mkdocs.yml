@@ -1,7 +1,8 @@
 site_name: TFT S16 3Cost Docs
 theme:
   name: material
-docs_dir: .       
+docs_dir: docs    
+site_dir: site      
 nav:
   - Home: index.md
   - Tier List: tier-list.md
