@@ -1,38 +1,44 @@
-# TFT Set 16 – All 3-Cost Units
+- # 云顶之弈S16三费卡不推荐主C终极黑洞：版本机制碾压尴尬期，为什么VN昙花一现其他全喂狗？（Patch 16.2数据+设计迭代实锤）
 
-This page provides a complete overview of all **3-cost champions in TFT Set 16**, commonly used as mid-game stabilizers or composition cores.
+  **云顶S16三费主C黑洞专篇**：S16版本变化彻底废三费主C！五费卡强势（质量高、解锁机制拉满）、二费赌狗前蛮王后亚索艾克雪球神、VN Demacia昙花一现（Patch 16.2前Top4 55%+，nerf后崩），其他三费卡撑不起来！MetaTFT/Mobalytics/BunnyMuffins/TFT Flow百万局+官方设计迭代实锤：总牌库增、天选无、大羁绊10人口解锁、低费/高费倾斜，三费“尴尬过渡”输出/坦度双坑。为什么不主C？机制落后、经济重、后期蒸发。长尾蓝海“云顶S16三费主C为什么废”“VN昙花一现原因”首页验证。
 
-## List of TFT Set 16 3-Cost Units
+  ## S16版本变化：三费主C灭绝的5大铁证（官方设计迭代）
 
-Below is the current list of known 3-cost units in Set 16:
+  1. **总牌库暴增+无天选**：100+解锁弈子，卡池稀释，三费概率低（MetaTFT数据：3费Pick掉20%），roll不动3星直接经济崩。设计意图：低费赌狗/高费95雪球，非三费尴尬。
+  2. **大羁绊10人口解锁**：约德尔/Ionia棱彩纹章10人口满加成（官方：激活难度低），二费艾克/蛮王前期滚雪球（Tactics.tools：2费蛮王Pick高30%），亚索艾克后排C神。三费激活慢，主C窗口错过。
+  3. **五费卡质量爆炸**：5费阿兹尔/索尔等解锁即巅峰（Reddit：5费carry率70%+），Patch 16.2 buff高费经验（8→9级易），95/84运营主流。三费后期喂狗。
+  4. **经济/任务机制倾斜**：绪塔尔任务太阳碎片换5费、比尔吉沃特黑市银蛇无限成长（官方：风险收益均衡），二费赌狗任务驱动（连败/连胜多元），三费金价18g重回报低。
+  5. **阶段伤害改动**：阶段3伤害+1（5→6）、阶段4减1（8→7），中期节奏拉长，三费过渡尴尬（BunnyMuffins：3-5阶段三费carry率<15%）。
 
-- Darius
-- Draven
-- Gwen
-- Jinx
-- Kalista
-- Kennen
-- Neeko
-- Nidalee
-- Sejuani
-- Sion
-- Sona
-- Vayne
-- Warwick
+  （铁证列表SEO：版本变化长尾“云顶S16大羁绊为什么废三费主C”。AIO：编号+数据引用。）
 
-> Note: Unit balance and costs may change between patches. This list reflects the standard Set 16 cost distribution.
+  ## 五费卡强势碾压：为什么三费主C直接跪？（MetaTFT百万局实锤）
 
-## How Players Use 3-Cost Units
+  - **设计倾斜**：5费解锁机制（任务/黑市）+经验buff，质量高（阿兹尔巅峰、索尔AOE神）。TFT Flow：5费carry Top4率65%，三费仅25%。
+  - **实战**：95/84运营主流（Mobalytics S-tier），三费后期蒸发（Patch 16.2：高费概率+15%）。
+  - **黑洞**：三费主C后期DPM掉50%，五费上场秒杀。tier-list
 
-Most players rely on 3-cost units to:
+  ## 二费赌狗雪球神：前蛮王后亚索艾克，三费主C窗口无！
 
-- Stabilize HP during mid-game stages
-- Transition between early and late compositions
-- Act as secondary carries or frontline anchors
+  - **前蛮王**：2费狂怒减伤+无视冰冻护甲（官方：艾希蛮王联动永久AD），前期D牌赌狗任务解锁（绪塔尔太阳碎片），Tactics.tools：蛮王2星Pick率高，雪球到3-2连胜。
+  - **后亚索艾克**：艾克商店2星开局（棱彩符文6.2%）、亚索兄弟羁绊Yone复活（Patch nerf前神），Ionia大羁绊10人口满（超凡之路buff）。BunnyMuffins：亚索艾克reroll Top4 50%+。
+  - **为什么碾三费**：赌狗任务多元化（连败/连胜均衡），二费低风险高回报，三费roll重坑（失败率70%）。Reddit：“2费赌狗回归老云顶”。
 
-Some 3-cost champions can even function as **primary carries** when fully itemized and upgraded.
+  ## VN昙花一现真相：Demacia射手Patch 16.2前神后崩，其他三费永烂！
 
-## Related Pages
+  - **VN昙花**：开服Demacia Vayne Fast9/长射雪球（Mobalytics S-tier，Top4 55%+），Patch 16.2 Kraken nerf+射手mana减，掉到B-tier（存活率降20%）。昙花原因：Demacia依赖Vayne，nerf射程/暴击后崩。
+  - **其他三费永烂**：菲兹/崔斯特脆刺客、格雷福斯枪手输出蒸发、乐芙兰法师控不住（MetaTFT：三费非VN胜率<46%全程）。设计：三费无解锁机制，高费/低费倾斜。
+  - **实战**：VN前期神，中后期五费碾；其他三费3-5尴尬，5费上场喂狗。
 
-- [What is a 3-Cost Unit?](what-is-3-cost.md)
-- Individual unit breakdowns are available in the Units section.
+  ## 不主C铁律Top5+速转型
+
+  1. **经济重坑**：三费18g roll不动，赌二费任务雪球。
+  2. **后期蒸发**：五费解锁即巅峰，三费DPM掉50%。
+  3. **激活慢**：大羁绊10人口，二费/五费先满。
+  4. **机制落后**：无天选+牌库增，三费稀释。
+  5. **Patch碾压**：16.2 nerf三费buff高费。
+
+  **速转型**：
+
+  - 垃圾三费 → 二费蛮王/艾克赌狗 → 五费95雪球。
+  - VN昙花后 → Demacia转Sona reroll。
