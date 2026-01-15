@@ -1,9 +1,8 @@
 site_name: 云顶之弈 S16 三费卡分析
 site_description: 云顶之弈 S16 最垃圾三费卡分析，基于版本演化与实战效率判断
-site_author: NicheDigger
-
+site_author: weihacking
 theme:
-  name: mkdocs
+  name: material
 
 nav:
   - 首页: index.md
