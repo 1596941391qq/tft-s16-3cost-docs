@@ -1,9 +1,8 @@
 site_name: TFT S16 3Cost Docs
 theme:
   name: material
-
-site_dir: build      # 自定义输出目录，避免和 Read the Docs 冲突（可选，但推荐）
-
+docs_dir: docs 
+site_dir: build
 nav:
   - Home: index.md
   - Tier List: tier-list.md
