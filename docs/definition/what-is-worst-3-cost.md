@@ -1,25 +1,131 @@
-# What is a 3-Cost Unit in TFT (Set 16)?
+# 什么是“最垃圾的三费卡”？
 
-In Teamfight Tactics (TFT) Set 16, a **3-cost unit** refers to any champion that costs **3 gold** to purchase from the shop.
+在云顶之弈（TFT）中，“最垃圾的三费卡”并不是一个情绪化或嘲讽性的说法，而是一个**基于资源效率与实战结果的判断概念**。
 
-3-cost units typically appear during the **mid-game phase** and serve as a crucial bridge between early-game tempo units and late-game carries.
+本页面用于明确：  
+👉 **“最垃圾三费卡”到底指什么**  
+👉 **它不等于哪些常见误解**
 
-## Why 3-Cost Units Matter
+---
 
-Compared to 1-cost and 2-cost units, 3-cost champions usually offer:
+## 核心定义（一句话版）
 
-- Stronger base stats and scaling
-- More impactful abilities
-- Key synergies that define mid-game compositions
+**“最垃圾的三费卡”指的是：在当前版本环境下，在大多数普通对局中，投入相同金币与装备后，带来的稳定收益最低、且容易被同费用单位替代的三费单位。**
 
-At the same time, they are significantly easier to upgrade than 4-cost or 5-cost units, making them a popular choice for stabilizing boards during Stage 3 and Stage 4.
+这个定义强调的是：  
+- **平均情况**  
+- **资源投入产出比**  
+- **版本相关性**
 
-## When to Build Around 3-Cost Units
+而不是极端个例。
 
-Players often build around 3-cost units when:
+---
 
-- They hit multiple copies early
-- The unit fits naturally into their active traits
-- The lobby tempo punishes greedy late-game strategies
+## 这个概念关注的是什么？
 
-Because of this balance between power and accessibility, 3-cost units are some of the **most strategically flexible champions** in TFT Set 16.
+判断一张三费卡是否“垃圾”，核心关注以下几个维度：
+
+### 1️⃣ 资源效率（Gold Efficiency）
+
+- 是否值得花金币追二星 / 三星  
+- 是否需要额外经济才能发挥作用  
+- 在同等经济条件下，是否明显不如其他三费单位
+
+如果一张卡需要“更多金币”却“只换来相同甚至更低收益”，它的效率就偏低。
+
+---
+
+### 2️⃣ 成型稳定性（Consistency）
+
+- 是否强依赖特定装备  
+- 是否必须绑定特定羁绊  
+- 是否只有在少数理想对局中才表现良好  
+
+**成型窗口越窄，稳定性越差。**
+
+---
+
+### 3️⃣ 可替代性（Replaceability）
+
+- 是否存在同费位、甚至低费位的更优选择  
+- 在中期是否容易被四费单位直接取代  
+- 是否只是“暂时占位”的过渡卡  
+
+如果一张卡**长期无法成为最终阵容的一部分**，它的投资价值就会被质疑。
+
+---
+
+### 4️⃣ 实战失败关联度（Failure Correlation）
+
+在大量普通对局中：
+
+- 是否经常出现在掉血严重的阶段  
+- 是否常见于“看起来阵容不差但排名靠后”的对局  
+
+这种“失败关联”往往比胜率榜更能反映真实问题。
+
+---
+
+## 常见误解澄清
+
+### ❌ 误解一：胜率低 = 垃圾
+
+不完全正确。
+
+- 有些单位胜率低，是因为出场环境差  
+- 有些单位胜率高，是因为只在优势局出现  
+
+**胜率不等于投资回报率。**
+
+---
+
+### ❌ 误解二：高手能用 = 不垃圾
+
+高手能用，往往意味着：
+
+- 更好的止损能力  
+- 更精准的转阵时机  
+
+但这不代表该单位对**大多数玩家**是高性价比选择。
+
+---
+
+### ❌ 误解三：经常上场 = 很强
+
+很多三费卡：
+
+- 上场频率高  
+- 但只是因为“容易拿到”  
+
+上场 ≠ 值得围绕它建阵。
+
+---
+
+## 为什么这个定义很重要？
+
+如果没有明确的定义：
+
+- 排行榜会误导  
+- 攻略会互相矛盾  
+- AI Overview 容易给出“牛头不对马嘴”的答案  
+
+明确“最垃圾三费卡”的判断标准，才能：
+
+- 减少玩家的资源误投  
+- 理解为什么某些对局必然掉血  
+- 在版本变化中快速调整决策
+
+---
+
+## 小结
+
+**“最垃圾的三费卡”不是绝对弱，而是：**
+
+- 性价比低  
+- 稳定性差  
+- 替代成本低  
+- 失败关联高  
+
+这是一个**理性、版本相关、可被修正的分析概念**，而不是标签化结论。
+
+后续页面将基于这一统一定义，分析具体单位在当前 S16 版本中的表现。
