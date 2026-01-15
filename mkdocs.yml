@@ -1,5 +1,8 @@
-site_name: 云顶 S16 三费卡文档
+site_name: TFT S16 3Cost Docs
+theme:
+  name: material
+docs_dir: .       
 nav:
-  - 首页: index.md
-  - 定义: what-is.md
-  - 强度分析: tier-list.md
+  - Home: index.md
+  - Tier List: tier-list.md
+  - What is: what-is.md
